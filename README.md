@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MSameedC
+- 👋 Hi, I’m @MSameedC. I'm a blockbench modeler and a textures artist.
 - 👀 I’m interested in Realistic Graphics.
-- 🌱 I’m currently learning to improve my Minecraft texturepack.
+- 🌱 I’m currently learning to improve my Minecraft textures of my minecraft texturepack.
 - 📫 How to reach me :
     Discord: MSameedC#3624 or https://discord.gg/PCF6PwMb9z
 
